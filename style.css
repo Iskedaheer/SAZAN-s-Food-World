@@ -9,6 +9,8 @@ body {
     background-image: url(img/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .half-width {
@@ -19,9 +21,9 @@ body {
 }
 
 .half-width img {
-    height: 90%;
-    width: 90%;
-    padding-top: 0%;
+    height: 550px;
+    width: 900px;
+    margin-left: -300px;
 }
 
 #top-padding {
@@ -48,7 +50,7 @@ body {
     height: 510px;
     width: 700px;
     padding-top: 25px;
-    padding-left: 5px;
+    padding-left: 250px;
 }
 
 .section3 {

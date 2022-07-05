@@ -3,6 +3,7 @@ body {
     margin: 0%;
 }
 
+
 .flex {
     display: flex;
     background-image: url(img/7.png);
@@ -40,14 +41,18 @@ body {
     background-image: url(img/rutibackground.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 600px;
+    height: 610px;
 }
 
 #img-ghosamaja {
-    height: 500px;
-    width: 600px;
+    height: 510px;
+    width: 700px;
     padding-top: 25px;
-    padding-left: 50px;
+    padding-left: 5px;
+}
+
+.section3 {
+    height: 700px;
 }
 
 .recipies-hader {
@@ -63,7 +68,7 @@ body {
 
 .rannabanna {
     width: 30%;
-    height: 30%;
+    height: 45%;
     padding: 2%;
     box-shadow: 10px 10px 40px gray;
     border-radius: 40px;
@@ -83,4 +88,36 @@ body {
 #recipe {
     margin-left: 2%;
     margin-right: 15%;
+}
+
+.section4 {
+    height: 50px;
+    margin-top: 0px;
+}
+
+.section4main {
+    display: flex;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10%;
+    margin-bottom: 50%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.onethird-width {
+    width: 30%;
+    padding: 5%;
+    text-align: center;
+    font-weight: 700;
+}
+
+.footermain {
+    text-align: center;
+    color: aqua;
+    background-color: rgb(2, 2, 50);
+    margin-top: 300px;
+}
+
+span {
+    color: orange;
 }
